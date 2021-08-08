@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TusherT
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Bootstrap.
+- 🌱 Currently learning Bootstrap.
 - 📨 you can reach me out on my mail id & that is tupicloud@gmail.com
 
 
